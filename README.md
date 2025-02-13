@@ -5,7 +5,7 @@ A modern banking app simulation built as part of the **"JavaScript: From Zero to
 ## 🔑 How to Login
 - **Account 1**: User: `js`, PIN: `1111`
 - **Account 2**: User: `jd`, PIN: `2222`
-- 
+
 ## 🏦 Features
 - **User Authentication**: Login with a predefined username and password.
 - **Bank Transactions**: Transfer money, request loans, and delete accounts.
